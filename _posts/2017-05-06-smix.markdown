@@ -1,0 +1,70 @@
+---
+layout: post
+title:  "SMIX"
+date:   2016-06-13 10:51:47 +0530
+categories: smix
+
+
+---
+## Tècnic  en Sistemes Microinformàtics i  xarxes ##
+ 
+
+Amb aquesta titulació treballaràs en la la comercialització, muntatge i reparació d'equips, xarxes i serveis microinformàtics en general, com a part del suport informàtic en entitats que utilitzen sistemes i xarxes de dades per a la seva gestió.
+ 
+Competències professionals:
+
+|UC0219_2|Instal·lar i configurar programari base en sistemes microinformàtics.|
+|UC0220_2| Instal·lar, configurar i verificar els elements de la xarxa local segons procediments establerts.|
+|UC0221_2| Instal·lar, configurar  mantenir paquets informàtics de propòsit general i aplicacions específiques.|
+|UC0222_2| Facilitar al usuari la utilització de paquets informàtics de propòsit general i aplicacions específiques.| 
+
+## Tecnologies utilitzades durant el cicle:
+
+### SISTEMES OPERATIUS
+Windows Server
+Windows 7 i Windows 10
+Distribucions GNU/Linux
+
+### XARXES D’ÀREA LOCAL
+Cisco
+
+### DISSENY WEB
+HTML5
+CSS
+
+### DESENVOLUPAMENT WEB
+WordPress
+Joomla
+PHP
+JS
+
+### SEGURETAT
+Wireshark
+
+
+## Sortides professionals:
+
+
+Tècnic en sistemes microinformàtics.  
+Instal·lador d’equips microinformàtics. 
+Reparador de microordinadors. 
+Comercial de microinformàtica.  
+Personal de suport tècnic.  
+Operador de Tele-assistència. 
+
+## Activitats i  tallers
+
+BSC - Barcelona Centre de SuperComputació
+
+
+Robòtica - Pojecte Nu-bot, Lego Mindstorms
+
+Fabricació digital
+
+
+UPCNet - Xarxa del Campus Nord UPC
+
+
+
+ICFO - Institut de Ciències Fotòniques
+

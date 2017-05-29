@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Projecte Nu-bot"
+categories: nu-bot
+img: nu-bot-250.png
+categories: two
+---
+## Nu-bot
+
+Encetem un nou projecte a curt i mig termini, en el que alumnes i professors treballem en un projecte amb vocació d’incorporar una visió més àmplia a l’estudi dels Sistemes informàtics i al desenvolupament d’aplicacions.
+
+És un projecte molt il·lusionant en el que de ben segur motivarem l’alumne i amb aquesta inèrcia, podrem aconseguir uns resultats d’aprenentatge satisfactoris.
+
+![alt text](https:)
