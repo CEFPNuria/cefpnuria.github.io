@@ -11,3 +11,39 @@ categories: [one, two]
 
 Aprendràs a desenvolupar, implantar, i mantenir aplicacions web, garantint l'accés a les dades de forma segura i complint els criteris d'accessibilitat i qualitat exigides en els estàndards establerts.
 
+## COMPETÈNCIES
+La competència general d’aquest títol consisteix a desenv., implantar i mantenir aplicacions web, amb independència del model i utilitzant tecnologies específiques, garantint l’accés a les dades de forma segura i complint els criteris d’accessibilitat  i qualitat exigides.
+
+ 
+
+## FORMACIÓ PROFESSIONAL DUAL
+Hi ha la possibilitat d'estudiar aquest cicle en versió DUAL, una modalitat de formació professional en la qual l'estudiant esdevé aprenent i combina la formació en el centre educatiu amb l'activitat productiva en l'empresa. L'empresa, inicialment, acull a l'estudiant en fase de pràctiques, un cop passades entre 80 i 100 hores, l'empresa es compromet signar un acord formatiu amb el centre amb el qual es beca a l'alumne. 
+
+ 
+
+## QUALIFICACIÓ PROFESSIONAL
+>Desenv. aplic. amb tecnologies web (IFC154_3)
+>Desenv. elements software a l’entorn client.
+>Desenv. elements software a l’entorn.
+>Implementar, verificar i doc. aplic. Web.
+>Programació a llenguatges estructurats d’aplic. de gestió (IFC155_3)
+>Configurar i explotar sist. informàtics.
+>Programar bases de dades relacionals.
+>Programació amb llenguatges  orientats a objectes i BD relacionals.(IFC080_3)
+>Configurar i explotar sist. infomàtics. Programar BD relacionals
+
+## MÒDULS A DESENVOLUPAR
+M1	Sist. Informàtics	 
+M2	Base Dades	 
+M3	Programació	 
+M4	Ll. de marques i Sist. de gestió de inform	 
+M5	Entorn de desenvolupament	 
+M6	Desenvolupament Web en entorn client	 
+M7	Desenv. web en entorn servidor	 
+M8	Desplegam. d’aplic. web	 
+M9	Disseny d’interface web	 
+M10	Projecte	 
+M11	Formació i Orientació Laboral	 
+M12	Empresa i iniciativa emprenedora	 
+M13	Formació en Centre de Treball	 
+
