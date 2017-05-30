@@ -44,7 +44,6 @@ Wireshark
 
 ## Sortides professionals:
 
-
 Tècnic en sistemes microinformàtics.  
 Instal·lador d’equips microinformàtics. 
 Reparador de microordinadors. 
@@ -54,17 +53,13 @@ Operador de Tele-assistència.
 
 ## Activitats i  tallers
 
-BSC - Barcelona Centre de SuperComputació
+>>BSC - Barcelona Centre de SuperComputació
 
+>>Robòtica - Pojecte Nu-bot, Lego Mindstorms
 
-Robòtica - Pojecte Nu-bot, Lego Mindstorms
+>>Fabricació digital
 
-Fabricació digital
+>>UPCNet - Xarxa del Campus Nord UPC
 
-
-UPCNet - Xarxa del Campus Nord UPC
-
-
-
-ICFO - Institut de Ciències Fotòniques
+>>ICFO - Institut de Ciències Fotòniques
 
